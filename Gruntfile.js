@@ -12,7 +12,8 @@ module.exports = function(grunt) {
                     beforeEach: false,
                     afterEach: false,
                     sinon: false,
-                    jasmine: false
+                    jasmine: false,
+                    strict: true
                 },
                 browser: true,
                 devel: true
