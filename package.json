@@ -1,0 +1,19 @@
+{
+  "name": "eloquent-javascript-solutions",
+  "version": "1.0.0",
+  "description": "Solutions of eloquent javascript book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikatmitra91/eloquent-javascript-solutions.git"
+  },
+  "author": "saikatmitra91@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikatmitra91/eloquent-javascript-solutions/issues"
+  },
+  "homepage": "https://github.com/saikatmitra91/eloquent-javascript-solutions#readme"
+}
