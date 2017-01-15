@@ -1,4 +1,4 @@
 # eloquent-javascript-solutions
-<img src="https://travis-ci.org/saikatmitra91/eloquent-javascript-solutions.svg?branch=master"/>
+[![Build Status](https://travis-ci.org/saikatmitra91/eloquent-javascript-solutions.svg?branch=master)](https://travis-ci.org/saikatmitra91/eloquent-javascript-solutions)
 
 Solutions of Eloquent Javascript Book
