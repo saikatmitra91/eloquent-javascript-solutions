@@ -1,24 +1,25 @@
 {
-  "name": "eloquent-javascript-solutions",
-  "version": "1.0.0",
-  "description": "Solutions of eloquent javascript book",
-  "main": "index.js",
-  "scripts": {
-    "test": "grunt jshint"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/saikatmitra91/eloquent-javascript-solutions.git"
-  },
-  "author": "saikatmitra91@gmail.com",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/saikatmitra91/eloquent-javascript-solutions/issues"
-  },
-  "homepage": "https://github.com/saikatmitra91/eloquent-javascript-solutions#readme",
-  "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-jshint": "^1.1.0",
-    "inquirer": "^2.0.0"
-  }
+    "name": "eloquent-javascript-solutions",
+    "version": "1.0.0",
+    "description": "Solutions of eloquent javascript book",
+    "main": "index.js",
+    "scripts": {
+        "test": "grunt jshint && jasmine-node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/saikatmitra91/eloquent-javascript-solutions.git"
+    },
+    "author": "saikatmitra91@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/saikatmitra91/eloquent-javascript-solutions/issues"
+    },
+    "homepage": "https://github.com/saikatmitra91/eloquent-javascript-solutions#readme",
+    "devDependencies": {
+        "grunt": "^1.0.1",
+        "grunt-contrib-jshint": "^1.1.0",
+        "inquirer": "^2.0.0",
+        "jasmine-node": "^1.14.5"
+    }
 }

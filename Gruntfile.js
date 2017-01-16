@@ -1,7 +1,7 @@
 module.exports = function(grunt) {
     grunt.initConfig({
         jshint: {
-            all: ['src/**/*.js', 'test/**/*.js'],
+            all: ['src/**/*.js', 'test/**/*.js', 'data/**/*.js'],
             options: {
                 globals: {
                     _: false,
